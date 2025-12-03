@@ -1,0 +1,109 @@
+[
+    {
+        "LevelTagId": 5,
+        "MapAreaId": 30
+    },
+    {
+        "LevelTagId": 6,
+        "MapAreaId": 30,
+        "index": 1
+    },
+    {
+        "LevelTagId": 7,
+        "MapAreaId": 30,
+        "index": 2
+    },
+    {
+        "LevelTagId": 8,
+        "MapAreaId": 30,
+        "index": 3
+    },
+    {
+        "LevelTagId": 9,
+        "MapAreaId": 30,
+        "index": 4
+    },
+    {
+        "LevelTagId": 10,
+        "MapAreaId": 30,
+        "index": 5
+    },
+    {
+        "LevelTagId": 11,
+        "MapAreaId": 30,
+        "index": 6
+    },
+    {
+        "LevelTagId": 12,
+        "MapAreaId": 30,
+        "index": 7
+    },
+    {
+        "LevelTagId": 13,
+        "MapAreaId": 30,
+        "index": 8
+    },
+    {
+        "LevelTagId": 14,
+        "MapAreaId": 30,
+        "index": 9
+    },
+    {
+        "LevelTagId": 15,
+        "MapAreaId": 32
+    },
+    {
+        "LevelTagId": 16,
+        "MapAreaId": 32,
+        "index": 1
+    },
+    {
+        "LevelTagId": 17,
+        "MapAreaId": 32,
+        "index": 2
+    },
+    {
+        "LevelTagId": 18,
+        "MapAreaId": 31
+    },
+    {
+        "LevelTagId": 19,
+        "MapAreaId": 31,
+        "index": 1
+    },
+    {
+        "LevelTagId": 20,
+        "MapAreaId": 31,
+        "index": 2
+    },
+    {
+        "LevelTagId": 21,
+        "MapAreaId": 33
+    },
+    {
+        "LevelTagId": 22,
+        "MapAreaId": 33,
+        "index": 1
+    },
+    {
+        "LevelTagId": 33,
+        "MapAreaId": 31,
+        "index": 3
+    },
+    {
+        "LevelTagId": 62,
+        "MapAreaId": 36
+    },
+    {
+        "LevelTagId": 63,
+        "MapAreaId": 37
+    },
+    {
+        "LevelTagId": 64,
+        "MapAreaId": 38
+    },
+    {
+        "LevelTagId": 69,
+        "MapAreaId": 39
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "dungeonId": 1146,
+        "numberOfChests": 9
+    },
+    {
+        "dungeonId": 1138,
+        "numberOfChests": 6
+    },
+    {
+        "dungeonId": 1144,
+        "numberOfChests": 9,
+        "numberOfEchoShells": 1
+    },
+    {
+        "dungeonId": 1137,
+        "numberOfChests": 18,
+        "numberOfEchoShells": 1
+    },
+    {
+        "dungeonId": 1141,
+        "numberOfChests": 3
+    },
+    {
+        "dungeonId": 1142,
+        "numberOfChests": 3,
+        "numberOfEchoShells": 1
+    },
+    {
+        "dungeonId": 1143,
+        "numberOfChests": 4
+    },
+    {
+        "dungeonId": 1139,
+        "numberOfChests": 22,
+        "numberOfEchoShells": 1
+    }
+]
